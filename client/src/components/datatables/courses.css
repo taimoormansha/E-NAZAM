@@ -1,0 +1,79 @@
+.pageContainer {
+    width: 100%;
+  }
+  .pageHeading {
+    margin: 0px;
+    padding: 0rem 1rem;
+    font-size: 18px;
+    font-weight: bold;
+    color:red
+  }
+  .center{
+    align-items: center;
+  }
+  .pageBox {
+    background-color: #fff;
+    border: none;
+    box-shadow: 0 0 5px #a2a2a2;
+    margin: 1rem;
+    padding: 10px;
+    border-radius: 2px;
+  }
+  .textDecorationNone {
+    text-decoration: none;
+  }
+  .displayFlex {
+    display: flex;
+  }
+  .listIcon {
+    color: #f54e38 !important;
+    font-size: 50px !important;
+  }
+  .addLink {
+    margin-left: auto;
+    text-decoration: none;
+  }
+  .primaryBtn {
+    background-color: #16a0b6 !important;
+    border-color: #16a0b6 !important;
+    color: #fff !important;
+  }
+  .primaryBtn:hover,
+  .primaryBtn:focus {
+    background-color: #16a0b6 !important;
+    border-color: #16a0b6 !important;
+    box-shadow: none !important;
+  }
+  .addBtn {
+    margin-top: 0.5rem !important;
+    margin-right: 0.5rem !important;
+  }
+  .plusIcon {
+    font-size: 15px !important;
+    margin-right: 0.5rem !important;
+  }
+  .marginTop1 {
+    margin-top: 1rem;
+  }
+  .marginBottom1 {
+    margin-bottom: 1rem;
+  }
+  .marginLeft {
+    margin-left: 0.5rem !important;
+  }
+  .marginRight {
+    margin-right: 0.5rem !important;
+  }
+  .marginLeftAuto {
+    margin-left: auto !important;
+    width: 1.5rem;
+  }
+  .tableContainer {
+    margin: 1rem 0;
+    height: 300px;
+    display: contents;
+  }
+  .padding1 {
+    padding: 1rem;
+  }
+  

@@ -1,0 +1,55 @@
+.left_style{ width:90px;}
+.right_style{width:125px;}
+.border{ margin:5px;}
+.img_style{ height:123px; width:120px;}
+.signcover{ height:110px;}
+.mainheading {margin-bottom:0; border:none;}
+.list_left_top {
+    float: left;
+    border: 1px solid;
+    padding: 5px;
+    width: 200px;
+}
+.list_left_top h4, .list_right_top_student h4 {
+    text-transform: uppercase;
+    font-style: italic;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.list_left_top li {
+    float: left;
+    margin-left: 10px;
+}
+.list_left_top li span {
+    width: 43px;
+    float: left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.list_right_top_student{ float:right; border:1px solid; padding:5px;}
+.list_right_top_student li {
+    padding: 2px;
+    margin: 1px;
+    border-bottom: 1px solid;
+    text-transform: capitalize;
+}
+.list_right_top_student ul li span {
+    border: 1px solid black;
+    text-align: center;
+    height: 15px;
+    width: 100px;
+    float: right;
+    margin-left: 10px;
+}
+.studentsignaturebox{ margin-top:20px;}
+.studentsignaturebox li{ float:left; margin-left:45px; text-align:center;}
+.studentsignaturebox li span {
+    border: 1px solid;
+    width: 175px;
+    float: left;
+    height: 40px;
+}
+.h26{ height:26px !important;}
+
